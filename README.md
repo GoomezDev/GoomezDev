@@ -1,8 +1,7 @@
-<h3 align="center">Bem Vindo(a) ao meu Perfil</h3>
+<h2 align="center">Bem Vindo(a) ao meu Perfil</h2>
 
-<h3 align="center">Sobre mim</h3>
-Eu sou Daniel Gomes de Paula, sou um estudante do **Senac**, criei esse gitHub para ir registrando meu progresso dentro do curso de **Analise e desenvolvimento de sistemas**.
-Tenho minhas contas pessoais com projetos criado por mim
+> ### Eu sou Daniel Gomes de Paula, sou um estudante do **Senac**, criei esse gitHub para ir registrando meu progresso dentro do curso de **Analise e desenvolvimento de sistemas**.
+> ### Tenho minhas contas pessoais com projetos criado por mim!! Então vão lá e de uma olhada.
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Meus Contatos 🤝 </h3>
 <p align="center">
